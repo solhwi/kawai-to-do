@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "kawai-to-do",
+    "description": "kawai to do app made with react to do",
     "slug": "kawai-to-do",
     "version": "1.0.0",
     "orientation": "portrait",
