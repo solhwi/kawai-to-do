@@ -6,6 +6,6 @@ to-do-list application
 
 Purpose of Quick Application Development with Expo
 
-> 개발기간 : 2020.08.17 ~ 2020.08.31
+> 개발기간 : 2020.08.17 ~ 2020.08.19
 
-Dev Period : 2020.08.17 ~ 2020.08.31
+Dev Period : 2020.08.17 ~ 2020.08.19
